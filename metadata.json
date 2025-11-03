@@ -1,0 +1,5 @@
+{
+  "name": "Gerenciador de Relatórios",
+  "description": "Uma aplicação colaborativa para equipes gerenciarem o ciclo de vida de relatórios, incluindo redação, discussão via tickets, aprovações e assinaturas, com um sistema de prazos visuais.",
+  "requestFramePermissions": []
+}
