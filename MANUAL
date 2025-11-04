@@ -1,0 +1,62 @@
+# Gerenciador de Relatórios – Manual Agentico
+
+## Visão Geral
+
+Este manual foi estruturado em modo agentico: cada etapa é narrada como parte de uma jornada inteligente de uso, valorizando automações, recomendações e decisões ideais para extração máxima do app.
+
+***
+
+## Jornada do Usuário
+
+### 1. Primeira Conexão
+
+- Abra o aplicativo.
+- Realize o login como agente administrador:
+  - Usuário: **admin**
+  - Senha: **admin**
+- Recomenda-se alterar a senha padrão imediatamente e registrar os membros da equipe.
+
+### 2. Cadastro estratégico
+
+- Utilize o painel de administração para inserir membros, definir permissões e estruturar os times.
+- Agentes líderes podem configurar integrações de API para IA (otimize com chaves de uso restrito).
+
+### 3. Criação de Relatórios
+
+- Cada agente pode criar, editar e anexar documentos multimídia.
+- Use a função de **resumo de IA** para síntese automática dos principais pontos do relatório.
+- Pratique subdivisão por abas temáticas: isso permite navegação rápida e evita sobreposição de dados.
+
+### 4. Automação e Eficiência
+
+- Ative rotinas de inserção automática de dados repetitivos.
+- Utilize recursos de speech-to-text para agilizar preenchimentos.
+- Monitoramento constante: agentes devem revisitar o histórico regularmente para identificar anomalias e validar métricas geradas por IA.
+
+### 5. Expansão e Personalização
+
+- Para agentes avançados, recomenda-se:
+  - Personalizar painéis com widgets analíticos.
+  - Integrar novas APIs (e.g., Google, Azure, OpenAI) para ampliar capacidades.
+  - Automatizar notificações e relatórios periódicos via scripts.
+- Mantenha o código e documentação sempre atualizados no GitHub para permitir colaboração contínua.
+
+***
+
+## Sugestões de Boas Práticas
+
+- Troque senhas padrão e implemente autenticação em dois fatores.
+- Valide sempre entradas de dados e gerencie permissões com foco na segurança.
+- Periodicamente, revise integrações externas para evitar falhas devido a mudanças de API.
+- Utilize exemplos de relatórios disponíveis para treinar novos agentes.
+
+## Dúvidas e Colaboração
+
+- Contato direto: **seu.email@dominio.com**
+- Para melhorias, abra uma *Issue* ou *Pull Request* no repositório.
+
+***
+
+Se desejar algo ainda mais personalizado ou expandido para contexto multiagente, posso detalhar fluxos específicos e sugestões avançadas!
+
+[1](https://aistudio.google.com/apps/drive/1uVYhvnIb9LpXrSPwZl1_OsWpXPihDnfa?showPreview=true&showAssistant=true)
